@@ -1,0 +1,29 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/kavaf/Music/ToonTanks/Content/Blueprints/Actors/BP_Projectile.uasset",
+				"C:/Users/kavaf/Music/ToonTanks/Content/Blueprints/BP_Pawns/BP_PawnTurret.uasset",
+				"C:/Users/kavaf/Music/ToonTanks/Content/Maps/Main.umap",
+				"C:/Users/kavaf/Music/ToonTanks/Content/Blueprints/BP_Pawns/BP_PawnTank.uasset",
+				"C:/Users/kavaf/Music/ToonTanks/Content/Blueprints/GameMode/BP_ToonTanksGameMode.uasset",
+				"C:/Users/kavaf/Music/ToonTanks/Content/Blueprints/PlayerController/BP_ToonTanksPlayerController.uasset",
+				"C:/Users/kavaf/Music/ToonTanks/Content/Blueprints/Widgets/WBP_StartGameWidget.uasset",
+				"C:/Users/kavaf/Music/ToonTanks/Content/Blueprints/Widgets/WBP_EndGameWidget.uasset",
+				"C:/Users/kavaf/Music/ToonTanks/Content/Blueprints/CameraShake/BP_HitCameraShake.uasset",
+				"C:/Users/kavaf/Music/ToonTanks/Content/Blueprints/CameraShake/BP_DeathCameraShake.uasset",
+				"C:/Users/kavaf/Music/ToonTanks/Content/Blueprints/Obstacles/BP_PlatformElevetor.uasset",
+				"C:/Users/kavaf/Music/ToonTanks/Content/Blueprints/Obstacles/MovementCurve.uasset",
+				"C:/Users/kavaf/Music/ToonTanks/Content/Blueprints/Obstacles/Platform.uasset",
+				"C:/Users/kavaf/OneDrive/Desktop/ToonTanks/Content/ComponentsActor.uasset",
+				"C:/Users/kavaf/OneDrive/Desktop/ToonTanks/Content/Blueprints/BP_Pawns/BP_PawnTank.uasset",
+				"C:/Users/kavaf/OneDrive/Desktop/ToonTanks/Content/Blueprints/BP_Pawns/BP_PawnTurret.uasset",
+				"C:/Users/kavaf/OneDrive/Desktop/ToonTanks/Content/Maps/Main.umap",
+				"C:/Users/kavaf/OneDrive/Desktop/ToonTanks/Content/Blueprints/Actors/BP_Projectile.uasset"
+			]
+		}
+	]
+}
